@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторна35</string>
+
+    <string name="next_fragment">Наступний Фрагмент</string>
+    <string name="first_fragment">Перший Фрагмент</string>
+
+    <string name="next_fragment_2">Наступний Фрагмент</string>
+    <string name="previous_fragment">Попередній Фрагмент</string>
+    <string name="second_fragment">Другий Фрагмент</string>
+
+    <string name="previous_fragment_3">Попередній Фрагмент</string>
+    <string name="third_fragment">Третій Фрагмент</string>
+</resources>

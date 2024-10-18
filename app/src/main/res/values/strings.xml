@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laboratory35</string>
+
+    <string name="next_fragment">Next Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+
+    <string name="next_fragment_2">Next Fragment</string>
+    <string name="previous_fragment">Previous Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+
+    <string name="previous_fragment_3">Previous Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+</resources>
